@@ -163,4 +163,9 @@ data-atlassian-id="557058:746d9c1c-0305-42c9-8ce9-13c6562f8265" />
       
       <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/locales/en.95920ad6be0b305e0198.js"></script>
         <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/runtime.b684d534f62b2986f214.js"></script>
-      <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/vendor.ff82129b400ad52b6c18.js"></scrip
+      <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/vendor.ff82129b400ad52b6c18.js"></script>
+      <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/app.2facd0af9f99deef2980.js"></script>
+    
+    <script nonce="" type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"a2cef8c3d3","agent":"","transactionName":"Z11RZxdWW0cEVkYLDV4XdUYLVEFdClsdAAtEWkZQDlJBGgRFQhFMQl1DXFcZQ10AQkFYBFlUVlEXWEJHAA==","applicationID":"1841284","errorBeacon":"bam.nr-data.net","applicationTime":388}</script>
+  </body>
+</html>
