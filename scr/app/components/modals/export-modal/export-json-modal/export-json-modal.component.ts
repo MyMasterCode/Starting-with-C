@@ -134,4 +134,31 @@ data-atlassian-id="557058:746d9c1c-0305-42c9-8ce9-13c6562f8265" />
       window.__webpack_nonce__ = '';
     </script>
     
-      <script nonce="" defer src="https://bitbucketfeedback.atlassian.net/s/d41d8cd98f00b204e9800998ecf8
+      <script nonce="" defer src="https://bitbucketfeedback.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-tqnsjm/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&amp;collectorId=c19c2ff6"></script>
+      <script nonce="">
+        window.__jira_issue_collector_trigger_fns__ = window.__jira_issue_collector_trigger_fns__ || {};
+        window.ATL_JQ_PAGE_PROPS = window.ATL_JQ_PAGE_PROPS || {};
+        window.ATL_JQ_PAGE_PROPS["c19c2ff6"] = window.ATL_JQ_PAGE_PROPS["c19c2ff6"] || {};
+        window.ATL_JQ_PAGE_PROPS["c19c2ff6"].triggerFunction = function(showCollectorDialog) {
+          window.__jira_issue_collector_trigger_fns__["c19c2ff6"] = showCollectorDialog;
+        }
+      </script>
+    
+      <script nonce="" defer src="https://bitbucketfeedback.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&amp;collectorId=bb066400"></script>
+      <script nonce="">
+        window.__jira_issue_collector_trigger_fns__ = window.__jira_issue_collector_trigger_fns__ || {};
+        window.ATL_JQ_PAGE_PROPS = window.ATL_JQ_PAGE_PROPS || {};
+        window.ATL_JQ_PAGE_PROPS["bb066400"] = window.ATL_JQ_PAGE_PROPS["bb066400"] || {};
+        window.ATL_JQ_PAGE_PROPS["bb066400"].triggerFunction = function(showCollectorDialog) {
+          window.__jira_issue_collector_trigger_fns__["bb066400"] = showCollectorDialog;
+        }
+      </script>
+    
+    
+      
+        <script nonce="">
+          window.__webpack_public_path__ = 'https://d301sr5gafysq2.cloudfront.net/frontbucket/';
+          window.__webpack_manifest__ = {"0": "0.e4064777e0eaf57d783f.js", "1": "1.0b2ee6e9cd71c0d30181.js", "2": "2.9b95712216a82f48f0f7.js", "3": "app.86db382984266ced0bdd.js", "4": "ajs.781603b620193226ab65.js"};
+        </script>
+      
+      <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/locales/en.95920a
