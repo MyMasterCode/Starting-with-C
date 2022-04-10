@@ -78,4 +78,55 @@ data-atlassian-id="557058:746d9c1c-0305-42c9-8ce9-13c6562f8265" />
           <li class="skeleton--icon-sub"></li>
           <li class="skeleton--icon-sub"></li>
           <li class="skeleton--icon-sub"></li>
-          <li class="skeleton--icon-sub"
+          <li class="skeleton--icon-sub"></li>
+          <li class="skeleton--icon-sub"></li>
+          <li class="skeleton--icon-sub"></li>
+        </ul>
+      </div>
+      <div class="skeleton-nav--left-bottom">
+        <div class="skeleton-nav--left-bottom-wrapper">
+          <div class="skeleton-nav--item-help"></div>
+          <div class="skeleton-nav--item-profile"></div>
+        </div>
+      </div>
+    </div>
+    <div class="skeleton-nav--right">
+      <ul class="skeleton-nav--items-wide">
+        <li class="skeleton--icon-logo-container">
+          <div class="skeleton--icon-container"></div>
+          <div class="skeleton--icon-description"></div>
+          <div class="skeleton--icon-logo"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+      
+    </div>
+    <script nonce="">
+      window.__sentry__ = {"dsn": "https://ea49358f525d4019945839a3d7a8292a@sentry.io/159509", "release": "ff0f0dd18a89 (production)", "tags": {"project": "frontbucket"}, "environment": "production"};
+      window.__initial_state__ = {"section": {"repository": {"connectActions": [], "cloneProtocol": "https", "currentRepository": {"scm": "git", "website": "http://www.younivise.com", "uuid": "{07bfec4d-bd6e-46b7-9597-cd65400706d8}", "links": {"clone": [{"href": "https://OSali@bitbucket.org/younivise/virtual-advisor-front-end.git", "name": "https"}, {"href": "git@bitbucket.org:younivise/vir
