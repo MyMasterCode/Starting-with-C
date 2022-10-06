@@ -44,4 +44,67 @@ data-atlassian-id="557058:746d9c1c-0305-42c9-8ce9-13c6562f8265" />
 <link rel="icon" sizes="16x16 24x24 32x32 64x64" type="image/x-icon" href="/favicon.ico?v=2">
 <link rel="mask-icon" href="https://d301sr5gafysq2.cloudfront.net/ff0f0dd18a89/img/logos/bitbucket/safari-pinned-tab.svg" color="#0052CC">
 
-<link rel=
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Bitbucket">
+
+    <meta name="description" content="">
+    <meta name="bb-single-page-app" content="true">
+    
+    <link rel="stylesheet" href="https://d301sr5gafysq2.cloudfront.net/ff0f0dd18a89/css/entry/adg3-skeleton-nav.css">
+    
+    
+      
+        <link rel="stylesheet" href="https://d301sr5gafysq2.cloudfront.net/frontbucket/vendor.0ee863a32e14.css">
+      
+    
+    
+  </head>
+  <body>
+    <div id="root">
+      
+        <div id="adg3-navigation"
+  
+  
+  
+   data-mobile-nav
+  >
+  <nav class="skeleton-nav">
+    <div class="skeleton-nav--left">
+      <div class="skeleton-nav--left-top">
+        <ul class="skeleton-nav--items">
+          <li></li>
+          <li></li>
+          <li></li>
+          <li class="skeleton--icon"></li>
+          <li class="skeleton--icon-sub"></li>
+          <li class="skeleton--icon-sub"></li>
+          <li class="skeleton--icon-sub"></li>
+          <li class="skeleton--icon-sub"></li>
+          <li class="skeleton--icon-sub"></li>
+          <li class="skeleton--icon-sub"></li>
+        </ul>
+      </div>
+      <div class="skeleton-nav--left-bottom">
+        <div class="skeleton-nav--left-bottom-wrapper">
+          <div class="skeleton-nav--item-help"></div>
+          <div class="skeleton-nav--item-profile"></div>
+        </div>
+      </div>
+    </div>
+    <div class="skeleton-nav--right">
+      <ul class="skeleton-nav--items-wide">
+        <li class="skeleton--icon-logo-container">
+          <div class="skeleton--icon-container"></div>
+          <div class="skeleton--icon-description"></div>
+          <div class="skeleton--icon-logo"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-
