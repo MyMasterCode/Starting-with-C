@@ -110,4 +110,23 @@ data-atlassian-id="557058:746d9c1c-0305-42c9-8ce9-13c6562f8265" />
           <div class="skeleton-nav--item-wide-content"></div>
         </li>
         <li>
-          <div
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+        <li>
+          <div class="skeleton--icon-small"></div>
+          <div class="skeleton-nav--item-wide-content"></div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+      
+    </div>
+    <script nonce="">
+      window.__sentry__ = {"dsn": "https://ea49358f525d4019945839a3d7a8292a@sentry.io/159509", "release": "ff0f0dd18a89 (production)", "tags": {"project": "frontbucket"}, "environment": "production"};
+      window.__initial_state__ = {"section": {"repository": {"connectActions": [], "cloneProtocol": "https", "currentRepository": {"scm": "git", "website": "http://www.younivise.com", "uuid": "{07bfec4d-bd6e-46b7-9597-cd65400706d8}", "links": {"clone": [{"href": "https://OSali@bitbucket.org/younivise/virtual-advisor-front-end.git", "name": "https"}, {"href": "git@bitbucket.org:younivise/virtual-advisor-front-end.git", "name": "ssh"}], "self": {"href": "https://bitbucket.org/!api/2.0/repositories/younivise/virtual-advisor-front-end"}, "html": {"href": "https://bitbucket.org/younivise/virtual-advisor-front-end"}, "avatar": {"href": "https://bitbucket.org/younivise/virtual-advisor-front-end/avatar/32/"}}, "name": "Virtual Advisor Front End", "project": {"uuid": "{e734809b-d74d-41cd-846f-915d419be09b}", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/teams/younivise/projects/VA"}, "html": {"href": "https://bitbucket.org/account/user/younivise/projects/VA"}, "avatar": {"href": "https://bitbucket.org/account/user/younivise/projects/VA/avatar/32"}}, "name": "Virtual Advisor", "created_on": "2017-04-11T16:45:10.912827+00:00", "key": "VA", "owner": {"username": "younivise", "type": "team", "display_name": "Younivise", "uuid": "{137754a9-713c-4c72-ba9d-bc66d67a6b88}", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/teams/younivise"}, "html": {"href": "https://bitb
